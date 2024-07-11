@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate with **you..**
 
-- 🤝 I’m looking for help with **your any type of programming-error**
+- 🤝 I’m looking for help **you**
 
 - 📫 How to reach me **harshsolanki5804@gmail.com**
 
