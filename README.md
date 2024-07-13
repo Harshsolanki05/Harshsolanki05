@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsolanki05&label=Profile%20views&color=0e75b6&style=flat" alt="harshsolanki05" /> </p>
 
-- 🔭 I’m currently working on **C2C App Project**
+- 🔭 I’m currently working on **C2C App Project & International Banking App Project**
 
 - 🌱 I’m currently learning **GraphQL , react.js...**
 
