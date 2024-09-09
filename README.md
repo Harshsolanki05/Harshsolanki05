@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsolanki05&label=Profile%20views&color=0e75b6&style=flat" alt="harshsolanki05" /> </p>
 
-- 🔭 I’m currently working on **C2C App Project & International Banking App Project**
+<!--- 🔭 I’m currently working on **C2C App Project & International Banking App Project**
 
-- 🌱 I’m currently learning **GraphQL , react.js...**
+- 🌱 I’m currently learning **GraphQL , react.js...**-->
 
 - 👯 I’m looking to collaborate with **you..**
 
 - 🤝 I’m looking for help **you**
 
-- 📫 How to reach me **harshsolanki5804@gmail.com**
+- 📫 How to reach me **harshsolanki5805@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
