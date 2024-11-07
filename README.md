@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://dev.to/harshsolanki05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harshsolanki05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshsolanki05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshsolanki05" height="30" width="40" /></a>
-<a href="https://instagram.com/xf_harsh_356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xf_harsh_356" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/xf_harsh_356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xf_harsh_356" height="30" width="40" /></a> -->
 <a href="https://medium.com/@harshsolanki5805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshsolanki05" height="30" width="40" /></a>
 </p>
 
